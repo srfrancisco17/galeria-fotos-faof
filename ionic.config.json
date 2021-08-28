@@ -1,0 +1,7 @@
+{
+  "name": "galeria-fotos-faof",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
